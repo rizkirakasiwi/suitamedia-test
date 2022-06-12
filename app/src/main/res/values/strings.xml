@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SuitaMedia</string>
+    <string name="welcome">Welcome</string>
+    <string name="desc_app_for">This is app for suitamedia mobile developer test</string>
+    <string name="avatar">Avatar</string>
+    <string name="type_the_name_here">Type the name here…</string>
+    <string name="type_text_palindrome">Type text palindrome</string>
+    <string name="next">Next</string>
+    <string name="check">Check</string>
+    <string name="copyright">Copyright @ 2020 Suitamedia All Rights Reserved</string>
+    <string name="change_image">Change Image</string>
+    <string name="cancel">Cancel</string>
+    <string name="s_is_palindrom">%s is palindrom!</string>
+    <string name="s_is_not_palindrom">%s is not palindrom</string>
+    <string name="no_text_typed">No text typed</string>
+    <string name="line_bg">Line background</string>
+    <string name="choose_event">Choose Event</string>
+    <string name="choose_guest">Choose Guest</string>
+    <string name="please_pick_or_take_picture">Please pick or take picture</string>
+    <string name="event">Event</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="map">Map</string>
+    <string name="event_pictures">Event Picture</string>
+    <string name="error_load_data">Error load data</string>
+    <string name="error">Error</string>
+    <string name="guest">Guest</string>
+</resources>
